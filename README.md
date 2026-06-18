@@ -1,6 +1,6 @@
-# Crash Detector Project
+# Forecasting the Duration of Price Instability Following Global Shocks ( Ongoing University Scientific Project)
 
-Full-stack crash and rebound detector inspired by the Streamlit prototype.
+Creating a website relevant to my University Scientific Research  Paper -Full-stack crash and rebound detector 
 
 Images of Project - Production work in progress:
 <img width="1378" height="812" alt="Screenshot 2026-05-23 233952" src="https://github.com/user-attachments/assets/fa16fcb9-a5b2-4533-a693-56d77131dc32" />
